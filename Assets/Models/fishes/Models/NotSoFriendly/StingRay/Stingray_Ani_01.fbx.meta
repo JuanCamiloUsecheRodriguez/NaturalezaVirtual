@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 4ec1364f37216bc4a9e16336207acfca
+timeCreated: 1473796624
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AlarThorn1
+    100002: AlarThorn10
+    100004: AlarThorn10_1
+    100006: AlarThorn11
+    100008: AlarThorn11_1
+    100010: AlarThorn12
+    100012: AlarThorn12_1
+    100014: AlarThorn13
+    100016: AlarThorn13_1
+    100018: AlarThorn14
+    100020: AlarThorn14_1
+    100022: AlarThorn1_1
+    100024: AlarThorn2
+    100026: AlarThorn2_1
+    100028: AlarThorn3
+    100030: AlarThorn3_1
+    100032: AlarThorn4
+    100034: AlarThorn4_1
+    100036: AlarThorn5
+    100038: AlarThorn5_1
+    100040: AlarThorn6
+    100042: AlarThorn6_1
+    100044: AlarThorn7
+    100046: AlarThorn7_1
+    100048: AlarThorn8
+    100050: AlarThorn8_1
+    100052: AlarThorn9
+    100054: AlarThorn9_1
+    100056: Ctrl_AlarThorn10_1
+    100058: Ctrl_AlarThorn11_1
+    100060: Ctrl_AlarThorn12_1
+    100062: Ctrl_AlarThorn13_1
+    100064: Ctrl_AlarThorn14_1
+    100066: Ctrl_AlarThorn1_2
+    100068: Ctrl_AlarThorn2_2
+    100070: Ctrl_AlarThorn3_2
+    100072: Ctrl_AlarThorn4_2
+    100074: Ctrl_AlarThorn5_2
+    100076: Ctrl_AlarThorn6_2
+    100078: Ctrl_AlarThorn7_2
+    100080: Ctrl_AlarThorn8_1
+    100082: Ctrl_AlarThorn9_1
+    100084: Ctrl_Snout1_1
+    100086: Ctrl_Total_01
+    100088: Grp_poly_01
+    100090: Grp_rig_01
+    100092: MantarrayaT01
+    100094: nurbsCircle1
+    100096: nurbsCircle2
+    100098: nurbsCircle3
+    100100: nurbsCircle4
+    100102: nurbsCircle5
+    100104: nurbsCircle6
+    100106: Snout1
+    100108: Snout1_1
+    100110: Spine1
+    100112: Spine2
+    100114: Spine3
+    100116: Spine4
+    100118: Spine5
+    100120: Spine6
+    100122: Spine7
+    100124: Spine8
+    100126: //RootNode
+    100128: Thorns_01
+    400000: AlarThorn1
+    400002: AlarThorn10
+    400004: AlarThorn10_1
+    400006: AlarThorn11
+    400008: AlarThorn11_1
+    400010: AlarThorn12
+    400012: AlarThorn12_1
+    400014: AlarThorn13
+    400016: AlarThorn13_1
+    400018: AlarThorn14
+    400020: AlarThorn14_1
+    400022: AlarThorn1_1
+    400024: AlarThorn2
+    400026: AlarThorn2_1
+    400028: AlarThorn3
+    400030: AlarThorn3_1
+    400032: AlarThorn4
+    400034: AlarThorn4_1
+    400036: AlarThorn5
+    400038: AlarThorn5_1
+    400040: AlarThorn6
+    400042: AlarThorn6_1
+    400044: AlarThorn7
+    400046: AlarThorn7_1
+    400048: AlarThorn8
+    400050: AlarThorn8_1
+    400052: AlarThorn9
+    400054: AlarThorn9_1
+    400056: Ctrl_AlarThorn10_1
+    400058: Ctrl_AlarThorn11_1
+    400060: Ctrl_AlarThorn12_1
+    400062: Ctrl_AlarThorn13_1
+    400064: Ctrl_AlarThorn14_1
+    400066: Ctrl_AlarThorn1_2
+    400068: Ctrl_AlarThorn2_2
+    400070: Ctrl_AlarThorn3_2
+    400072: Ctrl_AlarThorn4_2
+    400074: Ctrl_AlarThorn5_2
+    400076: Ctrl_AlarThorn6_2
+    400078: Ctrl_AlarThorn7_2
+    400080: Ctrl_AlarThorn8_1
+    400082: Ctrl_AlarThorn9_1
+    400084: Ctrl_Snout1_1
+    400086: Ctrl_Total_01
+    400088: Grp_poly_01
+    400090: Grp_rig_01
+    400092: MantarrayaT01
+    400094: nurbsCircle1
+    400096: nurbsCircle2
+    400098: nurbsCircle3
+    400100: nurbsCircle4
+    400102: nurbsCircle5
+    400104: nurbsCircle6
+    400106: Snout1
+    400108: Snout1_1
+    400110: Spine1
+    400112: Spine2
+    400114: Spine3
+    400116: Spine4
+    400118: Spine5
+    400120: Spine6
+    400122: Spine7
+    400124: Spine8
+    400126: //RootNode
+    400128: Thorns_01
+    4300000: MantarrayaT01
+    7400000: Swimming
+    7400002: Attack
+    9500000: //RootNode
+    13700000: MantarrayaT01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Swimming
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Grp_poly_01
+        weight: 1
+      - path: Grp_poly_01/MantarrayaT01
+        weight: 1
+      - path: Grp_rig_01
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn1_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn2_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn3_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn4_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn5_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn6_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn7_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn8_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn9_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn10_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn11_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn12_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn13_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn14_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_Snout1_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: Grp_rig_01/Thorns_01
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn1/AlarThorn1_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn2
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn2/AlarThorn2_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn3
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn3/AlarThorn3_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn4
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn4/AlarThorn4_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn5
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn5/AlarThorn5_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn6
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn6/AlarThorn6_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn7
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn7/AlarThorn7_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn8
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn8/AlarThorn8_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn9
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn9/AlarThorn9_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn10
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn10/AlarThorn10_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn11
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn11/AlarThorn11_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn12
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn12/AlarThorn12_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn13
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn13/AlarThorn13_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn14
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn14/AlarThorn14_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Snout1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Snout1/Snout1_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Attack
+      firstFrame: 51
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Grp_poly_01
+        weight: 1
+      - path: Grp_poly_01/MantarrayaT01
+        weight: 1
+      - path: Grp_rig_01
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn1_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn2_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn3_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn4_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn5_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn6_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn7_2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn8_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn9_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn10_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn11_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn12_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn13_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_AlarThorn14_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/Ctrl_Snout1_1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: Grp_rig_01/Ctrl_Total_01/nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: Grp_rig_01/Thorns_01
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn1/AlarThorn1_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn2
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn2/AlarThorn2_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn3
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn3/AlarThorn3_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn4
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn4/AlarThorn4_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn5
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn5/AlarThorn5_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn6
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn6/AlarThorn6_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn7
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn7/AlarThorn7_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn8
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn8/AlarThorn8_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn9
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn9/AlarThorn9_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn10
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn10/AlarThorn10_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn11
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn11/AlarThorn11_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn12
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn12/AlarThorn12_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn13
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn13/AlarThorn13_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn14
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/AlarThorn14/AlarThorn14_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Snout1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Snout1/Snout1_1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7
+        weight: 1
+      - path: Grp_rig_01/Thorns_01/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 51
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

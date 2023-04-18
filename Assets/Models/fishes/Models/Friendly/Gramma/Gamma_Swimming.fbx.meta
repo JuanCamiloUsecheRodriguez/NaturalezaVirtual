@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: c333de6d668ff1e4f85703227bebb9ed
+timeCreated: 1473872783
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: camera1
+    100002: cluster10Handle
+    100004: cluster11Handle
+    100006: cluster12Handle
+    100008: cluster13Handle
+    100010: cluster14Handle
+    100012: cluster15Handle
+    100014: cluster16Handle
+    100016: cluster17Handle
+    100018: cluster18Handle
+    100020: cluster19Handle
+    100022: cluster1Handle
+    100024: cluster20Handle
+    100026: cluster2Handle
+    100028: cluster3Handle
+    100030: cluster4Handle
+    100032: cluster5Handle
+    100034: cluster6Handle
+    100036: cluster7Handle
+    100038: cluster8Handle
+    100040: cluster9Handle
+    100042: follicle1
+    100044: follicle2
+    100046: Gamma
+    100048: //RootNode
+    100050: greasePencilTopArtDrawPlane
+    100052: greasePencilTopRenderPlane
+    100054: group1
+    100056: hairSystem1
+    100058: hairSystem1Follicles
+    100060: hairSystem1OutputCurves
+    100062: hairSystem2
+    100064: hairSystem2Follicles
+    100066: hairSystem2OutputCurves
+    100068: L_DorsalIK
+    100070: L_DorsalIK_CV
+    100072: L_DorsalSim_CV
+    100074: L_SpineA_Right_jnt
+    100076: L_SpineB_Right_jnt
+    100078: L_SpineC_Right_jnt
+    100080: L_SpineD_Right_jnt
+    100082: L_SpineE_Right_jnt
+    100084: nucleus1
+    100086: nurbsCircle1
+    100088: nurbsCircle10
+    100090: nurbsCircle11
+    100092: nurbsCircle12
+    100094: nurbsCircle13
+    100096: nurbsCircle14
+    100098: nurbsCircle15
+    100100: nurbsCircle16
+    100102: nurbsCircle17
+    100104: nurbsCircle18
+    100106: nurbsCircle2
+    100108: nurbsCircle3
+    100110: nurbsCircle4
+    100112: nurbsCircle5
+    100114: nurbsCircle6
+    100116: nurbsCircle8
+    100118: nurbsCircle9
+    100120: R_DorsalIK
+    100122: R_DorsalIK_CV
+    100124: R_DorsalSim_CV
+    100126: R_SpineA_Right_jnt
+    100128: R_SpineB_Right_jnt
+    100130: R_SpineC_Right_jnt
+    100132: R_SpineD_Right_jnt
+    100134: R_SpineE_Right_jnt
+    100136: Root_jnt
+    100138: sine1Handle
+    100140: Spine_IK
+    100142: SpineA_jnt
+    100144: SpineB_jnt
+    100146: SpineC_jnt
+    100148: SpineD_jnt
+    100150: SpineE_jnt
+    100152: SpineF_jnt
+    100154: SpineF_Right_jnt
+    100156: SpineF_Right_jnt 1
+    100158: SpineG_jnt
+    100160: SpineH_jnt
+    100162: SpineIK_CV
+    400000: camera1
+    400002: cluster10Handle
+    400004: cluster11Handle
+    400006: cluster12Handle
+    400008: cluster13Handle
+    400010: cluster14Handle
+    400012: cluster15Handle
+    400014: cluster16Handle
+    400016: cluster17Handle
+    400018: cluster18Handle
+    400020: cluster19Handle
+    400022: cluster1Handle
+    400024: cluster20Handle
+    400026: cluster2Handle
+    400028: cluster3Handle
+    400030: cluster4Handle
+    400032: cluster5Handle
+    400034: cluster6Handle
+    400036: cluster7Handle
+    400038: cluster8Handle
+    400040: cluster9Handle
+    400042: follicle1
+    400044: follicle2
+    400046: Gamma
+    400048: //RootNode
+    400050: greasePencilTopArtDrawPlane
+    400052: greasePencilTopRenderPlane
+    400054: group1
+    400056: hairSystem1
+    400058: hairSystem1Follicles
+    400060: hairSystem1OutputCurves
+    400062: hairSystem2
+    400064: hairSystem2Follicles
+    400066: hairSystem2OutputCurves
+    400068: L_DorsalIK
+    400070: L_DorsalIK_CV
+    400072: L_DorsalSim_CV
+    400074: L_SpineA_Right_jnt
+    400076: L_SpineB_Right_jnt
+    400078: L_SpineC_Right_jnt
+    400080: L_SpineD_Right_jnt
+    400082: L_SpineE_Right_jnt
+    400084: nucleus1
+    400086: nurbsCircle1
+    400088: nurbsCircle10
+    400090: nurbsCircle11
+    400092: nurbsCircle12
+    400094: nurbsCircle13
+    400096: nurbsCircle14
+    400098: nurbsCircle15
+    400100: nurbsCircle16
+    400102: nurbsCircle17
+    400104: nurbsCircle18
+    400106: nurbsCircle2
+    400108: nurbsCircle3
+    400110: nurbsCircle4
+    400112: nurbsCircle5
+    400114: nurbsCircle6
+    400116: nurbsCircle8
+    400118: nurbsCircle9
+    400120: R_DorsalIK
+    400122: R_DorsalIK_CV
+    400124: R_DorsalSim_CV
+    400126: R_SpineA_Right_jnt
+    400128: R_SpineB_Right_jnt
+    400130: R_SpineC_Right_jnt
+    400132: R_SpineD_Right_jnt
+    400134: R_SpineE_Right_jnt
+    400136: Root_jnt
+    400138: sine1Handle
+    400140: Spine_IK
+    400142: SpineA_jnt
+    400144: SpineB_jnt
+    400146: SpineC_jnt
+    400148: SpineD_jnt
+    400150: SpineE_jnt
+    400152: SpineF_jnt
+    400154: SpineF_Right_jnt
+    400156: SpineF_Right_jnt 1
+    400158: SpineG_jnt
+    400160: SpineH_jnt
+    400162: SpineIK_CV
+    4300000: Gamma
+    7400000: Swimming
+    9500000: //RootNode
+    13700000: Gamma
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Swimming
+      firstFrame: 1
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: greasePencilTopArtDrawPlane
+        weight: 1
+      - path: greasePencilTopRenderPlane
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/cluster1Handle
+        weight: 1
+      - path: group1/cluster2Handle
+        weight: 1
+      - path: group1/cluster3Handle
+        weight: 1
+      - path: group1/cluster4Handle
+        weight: 1
+      - path: group1/cluster5Handle
+        weight: 1
+      - path: group1/cluster6Handle
+        weight: 1
+      - path: group1/cluster7Handle
+        weight: 1
+      - path: group1/cluster8Handle
+        weight: 1
+      - path: group1/cluster9Handle
+        weight: 1
+      - path: group1/cluster10Handle
+        weight: 1
+      - path: group1/cluster11Handle
+        weight: 1
+      - path: group1/cluster12Handle
+        weight: 1
+      - path: group1/cluster13Handle
+        weight: 1
+      - path: group1/cluster14Handle
+        weight: 1
+      - path: group1/cluster15Handle
+        weight: 1
+      - path: group1/cluster16Handle
+        weight: 1
+      - path: group1/cluster17Handle
+        weight: 1
+      - path: group1/cluster18Handle
+        weight: 1
+      - path: group1/cluster19Handle
+        weight: 1
+      - path: group1/cluster20Handle
+        weight: 1
+      - path: group1/Gamma
+        weight: 1
+      - path: group1/hairSystem1
+        weight: 1
+      - path: group1/hairSystem1Follicles
+        weight: 1
+      - path: group1/hairSystem1OutputCurves
+        weight: 1
+      - path: group1/hairSystem1OutputCurves/R_DorsalSim_CV
+        weight: 1
+      - path: group1/hairSystem2
+        weight: 1
+      - path: group1/hairSystem2Follicles
+        weight: 1
+      - path: group1/hairSystem2OutputCurves
+        weight: 1
+      - path: group1/hairSystem2OutputCurves/L_DorsalSim_CV
+        weight: 1
+      - path: group1/L_DorsalIK
+        weight: 1
+      - path: group1/nucleus1
+        weight: 1
+      - path: group1/nurbsCircle1
+        weight: 1
+      - path: group1/nurbsCircle2
+        weight: 1
+      - path: group1/nurbsCircle3
+        weight: 1
+      - path: group1/nurbsCircle4
+        weight: 1
+      - path: group1/nurbsCircle5
+        weight: 1
+      - path: group1/nurbsCircle6
+        weight: 1
+      - path: group1/nurbsCircle8
+        weight: 1
+      - path: group1/nurbsCircle9
+        weight: 1
+      - path: group1/nurbsCircle10
+        weight: 1
+      - path: group1/nurbsCircle11
+        weight: 1
+      - path: group1/nurbsCircle12
+        weight: 1
+      - path: group1/nurbsCircle13
+        weight: 1
+      - path: group1/nurbsCircle14
+        weight: 1
+      - path: group1/nurbsCircle15
+        weight: 1
+      - path: group1/nurbsCircle16
+        weight: 1
+      - path: group1/nurbsCircle17
+        weight: 1
+      - path: group1/nurbsCircle18
+        weight: 1
+      - path: group1/R_DorsalIK
+        weight: 1
+      - path: group1/Root_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle1
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle1/R_DorsalIK_CV
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle2
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle2/L_DorsalIK_CV
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_SpineA_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_SpineA_Right_jnt/L_SpineB_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_SpineA_Right_jnt/L_SpineB_Right_jnt/L_SpineC_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_SpineA_Right_jnt/L_SpineB_Right_jnt/L_SpineC_Right_jnt/L_SpineD_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_SpineA_Right_jnt/L_SpineB_Right_jnt/L_SpineC_Right_jnt/L_SpineD_Right_jnt/L_SpineE_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_SpineA_Right_jnt/L_SpineB_Right_jnt/L_SpineC_Right_jnt/L_SpineD_Right_jnt/L_SpineE_Right_jnt/SpineF_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_SpineA_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_SpineA_Right_jnt/R_SpineB_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_SpineA_Right_jnt/R_SpineB_Right_jnt/R_SpineC_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_SpineA_Right_jnt/R_SpineB_Right_jnt/R_SpineC_Right_jnt/R_SpineD_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_SpineA_Right_jnt/R_SpineB_Right_jnt/R_SpineC_Right_jnt/R_SpineD_Right_jnt/R_SpineE_Right_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_SpineA_Right_jnt/R_SpineB_Right_jnt/R_SpineC_Right_jnt/R_SpineD_Right_jnt/R_SpineE_Right_jnt/SpineF_Right_jnt
+          1
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt
+        weight: 1
+      - path: group1/sine1Handle
+        weight: 1
+      - path: group1/Spine_IK
+        weight: 1
+      - path: group1/SpineIK_CV
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

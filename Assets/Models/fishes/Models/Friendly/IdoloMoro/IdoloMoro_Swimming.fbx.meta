@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: e7995dc2a9342234f91e8916ea9270e8
+timeCreated: 1473796563
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: Down_Dorsal_CV
+    100004: Down_DorsalA_IK
+    100006: Down_DorsalA_jnt
+    100008: Down_DorsalB_jnt
+    100010: Down_DorsalC_jnt
+    100012: Down_DorsalD_jnt
+    100014: Down_DorsalSim_CV
+    100016: follicle1
+    100018: follicle2
+    100020: follicle3
+    100022: follicle4
+    100024: group1
+    100026: hairSystem1
+    100028: hairSystem1Follicles
+    100030: hairSystem1OutputCurves
+    100032: hairSystem2
+    100034: hairSystem2Follicles
+    100036: hairSystem2OutputCurves
+    100038: hairSystem3
+    100040: hairSystem3Follicles
+    100042: hairSystem3OutputCurves
+    100044: hairSystem4
+    100046: hairSystem4Follicles
+    100048: hairSystem4OutputCurves
+    100050: //RootNode
+    100052: L_Down_DorsalA_jnt
+    100054: L_Down_DorsalB_jnt
+    100056: L_Down_DorsalC_jnt
+    100058: L_Down_DorsalIK
+    100060: L_Down_DorsalIK_CV
+    100062: L_Down_DorsalSim_CV
+    100064: L_Mid_DorsalA_jnt
+    100066: L_Mid_DorsalB_jnt
+    100068: L_Mid_DorsalC_jnt
+    100070: L_Mid_DorsalD_jnt
+    100072: nucleus1
+    100074: pSphere9
+    100076: R_Down_DorsalA_jnt
+    100078: R_Down_DorsalB_jnt
+    100080: R_Down_DorsalC_jnt
+    100082: R_Down_DorsalIK
+    100084: R_Down_DorsalIK_CV
+    100086: R_Down_DorsalSim_CV
+    100088: R_Mid_DorsalA_jnt
+    100090: R_Mid_DorsalB_jnt
+    100092: R_Mid_DorsalC_jnt
+    100094: R_Mid_DorsalD_jnt
+    100096: Root_jnt
+    100098: sine1Handle
+    100100: SpineA_jnt
+    100102: SpineB_jnt
+    100104: SpineC_jnt
+    100106: SpineD_jnt
+    100108: SpineE_jnt
+    100110: SpineF_jnt
+    100112: SpineG_jnt
+    100114: SpineH_jnt
+    100116: SpineIK
+    100118: SpineIK_CV
+    100120: Up_Dorsal_CV
+    100122: Up_DorsalA_IK
+    100124: Up_DorsalA_jnt
+    100126: Up_DorsalB_jnt
+    100128: Up_DorsalC_jnt
+    100130: Up_DorsalD_jnt
+    100132: Up_DorsalE_jnt
+    100134: Up_DorsalF_jnt
+    100136: Up_DorsalG_jnt
+    100138: Up_DorsalH_jnt
+    100140: Up_DorsalSim_CV
+    400000: back
+    400002: Down_Dorsal_CV
+    400004: Down_DorsalA_IK
+    400006: Down_DorsalA_jnt
+    400008: Down_DorsalB_jnt
+    400010: Down_DorsalC_jnt
+    400012: Down_DorsalD_jnt
+    400014: Down_DorsalSim_CV
+    400016: follicle1
+    400018: follicle2
+    400020: follicle3
+    400022: follicle4
+    400024: group1
+    400026: hairSystem1
+    400028: hairSystem1Follicles
+    400030: hairSystem1OutputCurves
+    400032: hairSystem2
+    400034: hairSystem2Follicles
+    400036: hairSystem2OutputCurves
+    400038: hairSystem3
+    400040: hairSystem3Follicles
+    400042: hairSystem3OutputCurves
+    400044: hairSystem4
+    400046: hairSystem4Follicles
+    400048: hairSystem4OutputCurves
+    400050: //RootNode
+    400052: L_Down_DorsalA_jnt
+    400054: L_Down_DorsalB_jnt
+    400056: L_Down_DorsalC_jnt
+    400058: L_Down_DorsalIK
+    400060: L_Down_DorsalIK_CV
+    400062: L_Down_DorsalSim_CV
+    400064: L_Mid_DorsalA_jnt
+    400066: L_Mid_DorsalB_jnt
+    400068: L_Mid_DorsalC_jnt
+    400070: L_Mid_DorsalD_jnt
+    400072: nucleus1
+    400074: pSphere9
+    400076: R_Down_DorsalA_jnt
+    400078: R_Down_DorsalB_jnt
+    400080: R_Down_DorsalC_jnt
+    400082: R_Down_DorsalIK
+    400084: R_Down_DorsalIK_CV
+    400086: R_Down_DorsalSim_CV
+    400088: R_Mid_DorsalA_jnt
+    400090: R_Mid_DorsalB_jnt
+    400092: R_Mid_DorsalC_jnt
+    400094: R_Mid_DorsalD_jnt
+    400096: Root_jnt
+    400098: sine1Handle
+    400100: SpineA_jnt
+    400102: SpineB_jnt
+    400104: SpineC_jnt
+    400106: SpineD_jnt
+    400108: SpineE_jnt
+    400110: SpineF_jnt
+    400112: SpineG_jnt
+    400114: SpineH_jnt
+    400116: SpineIK
+    400118: SpineIK_CV
+    400120: Up_Dorsal_CV
+    400122: Up_DorsalA_IK
+    400124: Up_DorsalA_jnt
+    400126: Up_DorsalB_jnt
+    400128: Up_DorsalC_jnt
+    400130: Up_DorsalD_jnt
+    400132: Up_DorsalE_jnt
+    400134: Up_DorsalF_jnt
+    400136: Up_DorsalG_jnt
+    400138: Up_DorsalH_jnt
+    400140: Up_DorsalSim_CV
+    4300000: pSphere9
+    7400000: Swimming
+    9500000: //RootNode
+    13700000: pSphere9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Swimming
+      firstFrame: 1
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Down_DorsalA_IK
+        weight: 1
+      - path: group1/hairSystem1
+        weight: 1
+      - path: group1/hairSystem1Follicles
+        weight: 1
+      - path: group1/hairSystem1OutputCurves
+        weight: 1
+      - path: group1/hairSystem1OutputCurves/Up_DorsalSim_CV
+        weight: 1
+      - path: group1/hairSystem2
+        weight: 1
+      - path: group1/hairSystem2Follicles
+        weight: 1
+      - path: group1/hairSystem2OutputCurves
+        weight: 1
+      - path: group1/hairSystem2OutputCurves/Down_DorsalSim_CV
+        weight: 1
+      - path: group1/hairSystem3
+        weight: 1
+      - path: group1/hairSystem3Follicles
+        weight: 1
+      - path: group1/hairSystem3OutputCurves
+        weight: 1
+      - path: group1/hairSystem3OutputCurves/R_Down_DorsalSim_CV
+        weight: 1
+      - path: group1/hairSystem4
+        weight: 1
+      - path: group1/hairSystem4Follicles
+        weight: 1
+      - path: group1/hairSystem4OutputCurves
+        weight: 1
+      - path: group1/hairSystem4OutputCurves/L_Down_DorsalSim_CV
+        weight: 1
+      - path: group1/L_Down_DorsalIK
+        weight: 1
+      - path: group1/nucleus1
+        weight: 1
+      - path: group1/pSphere9
+        weight: 1
+      - path: group1/R_Down_DorsalIK
+        weight: 1
+      - path: group1/Root_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle1
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle1/Up_Dorsal_CV
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle2
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle2/Down_Dorsal_CV
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle3
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle3/R_Down_DorsalIK_CV
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle4
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/follicle4/L_Down_DorsalIK_CV
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Down_DorsalA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Down_DorsalA_jnt/L_Down_DorsalB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Down_DorsalA_jnt/L_Down_DorsalB_jnt/L_Down_DorsalC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Mid_DorsalA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Mid_DorsalA_jnt/L_Mid_DorsalB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Mid_DorsalA_jnt/L_Mid_DorsalB_jnt/L_Mid_DorsalC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/L_Mid_DorsalA_jnt/L_Mid_DorsalB_jnt/L_Mid_DorsalC_jnt/L_Mid_DorsalD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Down_DorsalA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Down_DorsalA_jnt/R_Down_DorsalB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Down_DorsalA_jnt/R_Down_DorsalB_jnt/R_Down_DorsalC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Mid_DorsalA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Mid_DorsalA_jnt/R_Mid_DorsalB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Mid_DorsalA_jnt/R_Mid_DorsalB_jnt/R_Mid_DorsalC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/R_Mid_DorsalA_jnt/R_Mid_DorsalB_jnt/R_Mid_DorsalC_jnt/R_Mid_DorsalD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Down_DorsalA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Down_DorsalA_jnt/Down_DorsalB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Down_DorsalA_jnt/Down_DorsalB_jnt/Down_DorsalC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Down_DorsalA_jnt/Down_DorsalB_jnt/Down_DorsalC_jnt/Down_DorsalD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt/Up_DorsalC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt/Up_DorsalC_jnt/Up_DorsalD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt/Up_DorsalC_jnt/Up_DorsalD_jnt/Up_DorsalE_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt/Up_DorsalC_jnt/Up_DorsalD_jnt/Up_DorsalE_jnt/Up_DorsalF_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt/Up_DorsalC_jnt/Up_DorsalD_jnt/Up_DorsalE_jnt/Up_DorsalF_jnt/Up_DorsalG_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/Up_DorsalA_jnt/Up_DorsalB_jnt/Up_DorsalC_jnt/Up_DorsalD_jnt/Up_DorsalE_jnt/Up_DorsalF_jnt/Up_DorsalG_jnt/Up_DorsalH_jnt
+        weight: 1
+      - path: group1/sine1Handle
+        weight: 1
+      - path: group1/SpineIK
+        weight: 1
+      - path: group1/SpineIK_CV
+        weight: 1
+      - path: group1/Up_DorsalA_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

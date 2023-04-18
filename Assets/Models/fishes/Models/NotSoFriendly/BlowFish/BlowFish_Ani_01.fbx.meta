@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 0fbd15b2e8d56784398cf0670d1b48e5
+timeCreated: 1475161185
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BlowfishT02
+    100004: Ctrl_DorsalFin_01
+    100006: Ctrl_PectoralFin_L_01
+    100008: Ctrl_PectoralFin_L_02
+    100010: Ctrl_PectoralFin_L_03
+    100012: Ctrl_PectoralFin_L_04
+    100014: Ctrl_PelvicFin_01
+    100016: Ctrl_Spine_01
+    100018: Ctrl_Spine_02
+    100020: Ctrl_Spine_03
+    100022: Ctrl_Spine_04
+    100024: Ctrl_Spine_05
+    100026: Ctrl_Spine_06
+    100028: Ctrl_Spine_07
+    100030: Ctrl_Spine_08
+    100032: Ctrl_Total_01
+    100034: DorsalFin_01
+    100036: DorsalFin_02
+    100038: Grp_Ctrl_01
+    100040: Grp_joints_01
+    100042: Grp_poly_01
+    100044: Grp_Rig01
+    100046: PectoralFin_L_01
+    100048: PectoralFin_L_02
+    100050: PectoralFin_L_03
+    100052: PectoralFin_R_01
+    100054: PectoralFin_R_02
+    100056: PectoralFin_R_03
+    100058: PelvicFin_01
+    100060: PelvicFin_02
+    100062: Spine_01
+    100064: Spine_010
+    100066: Spine_02
+    100068: Spine_03
+    100070: Spine_04
+    100072: Spine_05
+    100074: Spine_06
+    100076: Spine_07
+    100078: Spine_08
+    100080: Spine_09
+    400000: //RootNode
+    400002: BlowfishT02
+    400004: Ctrl_DorsalFin_01
+    400006: Ctrl_PectoralFin_L_01
+    400008: Ctrl_PectoralFin_L_02
+    400010: Ctrl_PectoralFin_L_03
+    400012: Ctrl_PectoralFin_L_04
+    400014: Ctrl_PelvicFin_01
+    400016: Ctrl_Spine_01
+    400018: Ctrl_Spine_02
+    400020: Ctrl_Spine_03
+    400022: Ctrl_Spine_04
+    400024: Ctrl_Spine_05
+    400026: Ctrl_Spine_06
+    400028: Ctrl_Spine_07
+    400030: Ctrl_Spine_08
+    400032: Ctrl_Total_01
+    400034: DorsalFin_01
+    400036: DorsalFin_02
+    400038: Grp_Ctrl_01
+    400040: Grp_joints_01
+    400042: Grp_poly_01
+    400044: Grp_Rig01
+    400046: PectoralFin_L_01
+    400048: PectoralFin_L_02
+    400050: PectoralFin_L_03
+    400052: PectoralFin_R_01
+    400054: PectoralFin_R_02
+    400056: PectoralFin_R_03
+    400058: PelvicFin_01
+    400060: PelvicFin_02
+    400062: Spine_01
+    400064: Spine_010
+    400066: Spine_02
+    400068: Spine_03
+    400070: Spine_04
+    400072: Spine_05
+    400074: Spine_06
+    400076: Spine_07
+    400078: Spine_08
+    400080: Spine_09
+    4300000: BlowfishT02
+    7400000: Swimming
+    7400002: Attack
+    9500000: //RootNode
+    13700000: BlowfishT02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Swimming
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Grp_poly_01
+        weight: 1
+      - path: Grp_poly_01/BlowfishT02
+        weight: 1
+      - path: Grp_Rig01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_01/Ctrl_PectoralFin_L_02
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_03
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_03/Ctrl_PectoralFin_L_04
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_DorsalFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_PelvicFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_Spine_06
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_Spine_06/Ctrl_Spine_07
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_Spine_06/Ctrl_Spine_07/Ctrl_Spine_08
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_L_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_L_01/PectoralFin_L_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_L_01/PectoralFin_L_02/PectoralFin_L_03
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_R_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_R_01/PectoralFin_R_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_R_01/PectoralFin_R_02/PectoralFin_R_03
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/DorsalFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/DorsalFin_01/DorsalFin_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/PelvicFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/PelvicFin_01/PelvicFin_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07/Spine_08
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07/Spine_08/Spine_09
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07/Spine_08/Spine_09/Spine_010
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Attack
+      firstFrame: 61
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Grp_poly_01
+        weight: 1
+      - path: Grp_poly_01/BlowfishT02
+        weight: 1
+      - path: Grp_Rig01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_01/Ctrl_PectoralFin_L_02
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_03
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_PectoralFin_L_03/Ctrl_PectoralFin_L_04
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_DorsalFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_PelvicFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_Spine_06
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_Spine_06/Ctrl_Spine_07
+        weight: 1
+      - path: Grp_Rig01/Grp_Ctrl_01/Ctrl_Total_01/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Spine_04/Ctrl_Spine_05/Ctrl_Spine_06/Ctrl_Spine_07/Ctrl_Spine_08
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_L_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_L_01/PectoralFin_L_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_L_01/PectoralFin_L_02/PectoralFin_L_03
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_R_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_R_01/PectoralFin_R_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/PectoralFin_R_01/PectoralFin_R_02/PectoralFin_R_03
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/DorsalFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/DorsalFin_01/DorsalFin_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/PelvicFin_01
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/PelvicFin_01/PelvicFin_02
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07/Spine_08
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07/Spine_08/Spine_09
+        weight: 1
+      - path: Grp_Rig01/Grp_joints_01/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Spine_07/Spine_08/Spine_09/Spine_010
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 61
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

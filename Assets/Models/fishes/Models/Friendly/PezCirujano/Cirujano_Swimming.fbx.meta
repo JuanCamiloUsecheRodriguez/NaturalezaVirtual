@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: bb96de0c96167554682137db99ba40ab
+timeCreated: 1473872654
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cirujano
+    100002: //RootNode
+    100004: cluster1Handle
+    100006: cluster2Handle
+    100008: cluster3Handle
+    100010: cluster4Handle
+    100012: cluster5Handle
+    100014: cluster6Handle
+    100016: curve1
+    100018: greasePencilTopArtDrawPlane
+    100020: greasePencilTopRenderPlane
+    100022: group1
+    100024: ikHandle1
+    100026: Root_jnt
+    100028: sine1Handle
+    100030: SpineA_Ctrl
+    100032: SpineA_jnt
+    100034: SpineB_Ctrl
+    100036: SpineB_jnt
+    100038: SpineC_Ctrl
+    100040: SpineC_jnt
+    100042: SpineD_Ctrl
+    100044: SpineD_jnt
+    100046: SpineE_Ctrl
+    100048: SpineE_jnt
+    100050: SpineF_Ctrl
+    100052: SpineF_jnt
+    100054: SpineG_jnt
+    100056: SpineH_jnt
+    100058: SpineI_jnt
+    100060: SpineJ_jnt
+    100062: SpineK_jnt
+    100064: SpineL_jnt
+    400000: Cirujano
+    400002: //RootNode
+    400004: cluster1Handle
+    400006: cluster2Handle
+    400008: cluster3Handle
+    400010: cluster4Handle
+    400012: cluster5Handle
+    400014: cluster6Handle
+    400016: curve1
+    400018: greasePencilTopArtDrawPlane
+    400020: greasePencilTopRenderPlane
+    400022: group1
+    400024: ikHandle1
+    400026: Root_jnt
+    400028: sine1Handle
+    400030: SpineA_Ctrl
+    400032: SpineA_jnt
+    400034: SpineB_Ctrl
+    400036: SpineB_jnt
+    400038: SpineC_Ctrl
+    400040: SpineC_jnt
+    400042: SpineD_Ctrl
+    400044: SpineD_jnt
+    400046: SpineE_Ctrl
+    400048: SpineE_jnt
+    400050: SpineF_Ctrl
+    400052: SpineF_jnt
+    400054: SpineG_jnt
+    400056: SpineH_jnt
+    400058: SpineI_jnt
+    400060: SpineJ_jnt
+    400062: SpineK_jnt
+    400064: SpineL_jnt
+    4300000: Cirujano
+    7400000: Swimming
+    9500000: //RootNode
+    13700000: Cirujano
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Swimming
+      firstFrame: 1
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: greasePencilTopArtDrawPlane
+        weight: 1
+      - path: greasePencilTopRenderPlane
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Cirujano
+        weight: 1
+      - path: group1/cluster1Handle
+        weight: 1
+      - path: group1/cluster2Handle
+        weight: 1
+      - path: group1/cluster3Handle
+        weight: 1
+      - path: group1/cluster4Handle
+        weight: 1
+      - path: group1/cluster5Handle
+        weight: 1
+      - path: group1/cluster6Handle
+        weight: 1
+      - path: group1/curve1
+        weight: 1
+      - path: group1/ikHandle1
+        weight: 1
+      - path: group1/Root_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt/SpineK_jnt
+        weight: 1
+      - path: group1/Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt/SpineK_jnt/SpineL_jnt
+        weight: 1
+      - path: group1/sine1Handle
+        weight: 1
+      - path: group1/SpineA_Ctrl
+        weight: 1
+      - path: group1/SpineB_Ctrl
+        weight: 1
+      - path: group1/SpineC_Ctrl
+        weight: 1
+      - path: group1/SpineD_Ctrl
+        weight: 1
+      - path: group1/SpineE_Ctrl
+        weight: 1
+      - path: group1/SpineF_Ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 905477eb30f19a74487f9d8dd4bd08db
+timeCreated: 1473685042
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ClownfishT01
+    100004: ctrl_DorsalFin_01
+    100006: ctrl_DorsalFin_02
+    100008: ctrl_Eye_L_01
+    100010: ctrl_Eye_R_01
+    100012: ctrl_Operculum_L_01
+    100014: ctrl_Operculum_R_01
+    100016: ctrl_PectoralFin_L_01
+    100018: ctrl_PectoralFin_L_02
+    100020: ctrl_PectoralFin_L_03
+    100022: ctrl_PectoralFin_R_01
+    100024: ctrl_PectoralFin_R_02
+    100026: ctrl_PectoralFin_R_03
+    100028: ctrl_PelvicFin_01
+    100030: ctrl_Spine_01
+    100032: ctrl_Spine_010
+    100034: ctrl_Spine_011
+    100036: ctrl_Spine_02
+    100038: ctrl_Spine_03
+    100040: ctrl_Spine_04
+    100042: ctrl_Spine_05
+    100044: ctrl_Spine_06
+    100046: ctrl_Spine_07
+    100048: ctrl_Spine_08
+    100050: ctrl_Spine_09
+    100052: Ctrls_01
+    100054: DorsalFin_01
+    100056: DorsalFin_02
+    100058: DorsalFin_03
+    100060: DorsalFin_04
+    100062: Eye_L_01
+    100064: Eye_R01
+    100066: Joints_01
+    100068: Operculum_L_01
+    100070: Operculum_L_02
+    100072: Operculum_R_01
+    100074: Operculum_R_02
+    100076: PectoralFin_L_01
+    100078: PectoralFin_L_02
+    100080: PectoralFin_L_03
+    100082: PectoralFin_L_04
+    100084: PectoralFin_R_01
+    100086: PectoralFin_R_02
+    100088: PectoralFin_R_03
+    100090: PectoralFin_R_04
+    100092: PelvicFin_01
+    100094: PelvicFin_02
+    100096: Poly_01
+    100098: Rig_01
+    100100: Spine01
+    100102: Spine010
+    100104: Spine011
+    100106: Spine012
+    100108: Spine02
+    100110: Spine03
+    100112: Spine04
+    100114: Spine05
+    100116: Spine06
+    100118: Spine07
+    100120: Spine08
+    100122: Spine09
+    400000: //RootNode
+    400002: ClownfishT01
+    400004: ctrl_DorsalFin_01
+    400006: ctrl_DorsalFin_02
+    400008: ctrl_Eye_L_01
+    400010: ctrl_Eye_R_01
+    400012: ctrl_Operculum_L_01
+    400014: ctrl_Operculum_R_01
+    400016: ctrl_PectoralFin_L_01
+    400018: ctrl_PectoralFin_L_02
+    400020: ctrl_PectoralFin_L_03
+    400022: ctrl_PectoralFin_R_01
+    400024: ctrl_PectoralFin_R_02
+    400026: ctrl_PectoralFin_R_03
+    400028: ctrl_PelvicFin_01
+    400030: ctrl_Spine_01
+    400032: ctrl_Spine_010
+    400034: ctrl_Spine_011
+    400036: ctrl_Spine_02
+    400038: ctrl_Spine_03
+    400040: ctrl_Spine_04
+    400042: ctrl_Spine_05
+    400044: ctrl_Spine_06
+    400046: ctrl_Spine_07
+    400048: ctrl_Spine_08
+    400050: ctrl_Spine_09
+    400052: Ctrls_01
+    400054: DorsalFin_01
+    400056: DorsalFin_02
+    400058: DorsalFin_03
+    400060: DorsalFin_04
+    400062: Eye_L_01
+    400064: Eye_R01
+    400066: Joints_01
+    400068: Operculum_L_01
+    400070: Operculum_L_02
+    400072: Operculum_R_01
+    400074: Operculum_R_02
+    400076: PectoralFin_L_01
+    400078: PectoralFin_L_02
+    400080: PectoralFin_L_03
+    400082: PectoralFin_L_04
+    400084: PectoralFin_R_01
+    400086: PectoralFin_R_02
+    400088: PectoralFin_R_03
+    400090: PectoralFin_R_04
+    400092: PelvicFin_01
+    400094: PelvicFin_02
+    400096: Poly_01
+    400098: Rig_01
+    400100: Spine01
+    400102: Spine010
+    400104: Spine011
+    400106: Spine012
+    400108: Spine02
+    400110: Spine03
+    400112: Spine04
+    400114: Spine05
+    400116: Spine06
+    400118: Spine07
+    400120: Spine08
+    400122: Spine09
+    4300000: ClownfishT01
+    7400000: SwimmingCycle
+    9500000: //RootNode
+    13700000: ClownfishT01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SwimmingCycle
+      takeName: SwimmingCycle
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Poly_01
+        weight: 1
+      - path: Poly_01/ClownfishT01
+        weight: 1
+      - path: Rig_01
+        weight: 1
+      - path: Rig_01/Ctrls_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Eye_L_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Eye_R_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_DorsalFin_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Operculum_L_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Operculum_R_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_PectoralFin_L_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_PectoralFin_L_01/ctrl_PectoralFin_L_02
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_PectoralFin_L_01/ctrl_PectoralFin_L_02/ctrl_PectoralFin_L_03
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_PectoralFin_R_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_PectoralFin_R_01/ctrl_PectoralFin_R_02
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_PectoralFin_R_01/ctrl_PectoralFin_R_02/ctrl_PectoralFin_R_03
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07/ctrl_Spine_08
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07/ctrl_Spine_08/ctrl_DorsalFin_02
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07/ctrl_Spine_08/ctrl_PelvicFin_01
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07/ctrl_Spine_08/ctrl_Spine_09
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07/ctrl_Spine_08/ctrl_Spine_09/ctrl_Spine_010
+        weight: 1
+      - path: Rig_01/Ctrls_01/ctrl_Spine_01/ctrl_Spine_02/ctrl_Spine_03/ctrl_Spine_04/ctrl_Spine_05/ctrl_Spine_06/ctrl_Spine_07/ctrl_Spine_08/ctrl_Spine_09/ctrl_Spine_010/ctrl_Spine_011
+        weight: 1
+      - path: Rig_01/Joints_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Eye_L_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Eye_R01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/DorsalFin_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/DorsalFin_01/DorsalFin_02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Operculum_L_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Operculum_L_01/Operculum_L_02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Operculum_R_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Operculum_R_01/Operculum_R_02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_L_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_L_01/PectoralFin_L_02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_L_01/PectoralFin_L_02/PectoralFin_L_03
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_L_01/PectoralFin_L_02/PectoralFin_L_03/PectoralFin_L_04
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_R_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_R_01/PectoralFin_R_02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_R_01/PectoralFin_R_02/PectoralFin_R_03
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/PectoralFin_R_01/PectoralFin_R_02/PectoralFin_R_03/PectoralFin_R_04
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/DorsalFin_03
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/DorsalFin_03/DorsalFin_04
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/PelvicFin_01
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/PelvicFin_01/PelvicFin_02
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/Spine09
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/Spine09/Spine010
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/Spine09/Spine010/Spine011
+        weight: 1
+      - path: Rig_01/Joints_01/Spine01/Spine02/Spine03/Spine04/Spine05/Spine06/Spine07/Spine08/Spine09/Spine010/Spine011/Spine012
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: f147426b3b6438d47a6255c2b3f09a2d
+timeCreated: 1475505123
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cluster1Handle
+    100002: cluster2Handle
+    100004: cluster3Handle
+    100006: cluster4Handle
+    100008: Dorsal_Ctrl
+    100010: DorsalA_jnt
+    100012: DorsalB_jnt
+    100014: DorsalC_jnt
+    100016: DorsalD_jnt
+    100018: DorsalE_jnt
+    100020: Down_Head_Ctrl
+    100022: Down_HeadA_jnt
+    100024: Down_HeadB_jnt
+    100026: Down_HeadC_jnt
+    100028: HeadB_jnt
+    100030: HeadC_jnt
+    100032: HeadD_jnt
+    100034: L_Dorsal_Ctrl
+    100036: L_DorsalA_jnt
+    100038: L_DorsalB_jnt
+    100040: L_DorsalC_jnt
+    100042: L_DorsalD_jnt
+    100044: L_DorsalE_jnt
+    100046: R_Dorsal_Ctrl
+    100048: R_DorsalA_jnt
+    100050: R_DorsalB_jnt
+    100052: R_DorsalC_jnt
+    100054: R_DorsalD_jnt
+    100056: R_DorsalE_jnt
+    100058: Root_jnt
+    100060: Shark
+    100062: //RootNode
+    100064: sine1Handle
+    100066: SpineA_Ctrl
+    100068: SpineA_jnt
+    100070: SpineB_Ctrl
+    100072: SpineB_jnt
+    100074: SpineC_Ctrl
+    100076: SpineC_jnt
+    100078: SpineD_Ctrl
+    100080: SpineD_jnt
+    100082: SpineE_jnt
+    100084: SpineF_jnt
+    100086: SpineG_jnt
+    100088: SpineH_jnt
+    100090: SpineI_jnt
+    100092: SpineIK
+    100094: SpineIK_CV
+    100096: SpineJ_jnt
+    100098: SpineK_jnt
+    100100: SpineL_jnt
+    100102: Up_Head_Ctrl
+    100104: Up_HeadA_jnt
+    400000: cluster1Handle
+    400002: cluster2Handle
+    400004: cluster3Handle
+    400006: cluster4Handle
+    400008: Dorsal_Ctrl
+    400010: DorsalA_jnt
+    400012: DorsalB_jnt
+    400014: DorsalC_jnt
+    400016: DorsalD_jnt
+    400018: DorsalE_jnt
+    400020: Down_Head_Ctrl
+    400022: Down_HeadA_jnt
+    400024: Down_HeadB_jnt
+    400026: Down_HeadC_jnt
+    400028: HeadB_jnt
+    400030: HeadC_jnt
+    400032: HeadD_jnt
+    400034: L_Dorsal_Ctrl
+    400036: L_DorsalA_jnt
+    400038: L_DorsalB_jnt
+    400040: L_DorsalC_jnt
+    400042: L_DorsalD_jnt
+    400044: L_DorsalE_jnt
+    400046: R_Dorsal_Ctrl
+    400048: R_DorsalA_jnt
+    400050: R_DorsalB_jnt
+    400052: R_DorsalC_jnt
+    400054: R_DorsalD_jnt
+    400056: R_DorsalE_jnt
+    400058: Root_jnt
+    400060: Shark
+    400062: //RootNode
+    400064: sine1Handle
+    400066: SpineA_Ctrl
+    400068: SpineA_jnt
+    400070: SpineB_Ctrl
+    400072: SpineB_jnt
+    400074: SpineC_Ctrl
+    400076: SpineC_jnt
+    400078: SpineD_Ctrl
+    400080: SpineD_jnt
+    400082: SpineE_jnt
+    400084: SpineF_jnt
+    400086: SpineG_jnt
+    400088: SpineH_jnt
+    400090: SpineI_jnt
+    400092: SpineIK
+    400094: SpineIK_CV
+    400096: SpineJ_jnt
+    400098: SpineK_jnt
+    400100: SpineL_jnt
+    400102: Up_Head_Ctrl
+    400104: Up_HeadA_jnt
+    4300000: Shark
+    7400000: Swimming
+    7400002: Attack
+    9500000: //RootNode
+    13700000: Shark
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Swimming
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cluster1Handle
+        weight: 1
+      - path: cluster2Handle
+        weight: 1
+      - path: cluster3Handle
+        weight: 1
+      - path: cluster4Handle
+        weight: 1
+      - path: Dorsal_Ctrl
+        weight: 1
+      - path: Down_Head_Ctrl
+        weight: 1
+      - path: L_Dorsal_Ctrl
+        weight: 1
+      - path: R_Dorsal_Ctrl
+        weight: 1
+      - path: Root_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt/DorsalC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt/DorsalC_jnt/DorsalD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt/DorsalC_jnt/DorsalD_jnt/DorsalE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Down_HeadA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Down_HeadA_jnt/Down_HeadB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Down_HeadA_jnt/Down_HeadB_jnt/Down_HeadC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt/L_DorsalC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt/L_DorsalC_jnt/L_DorsalD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt/L_DorsalC_jnt/L_DorsalD_jnt/L_DorsalE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt/R_DorsalC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt/R_DorsalC_jnt/R_DorsalD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt/R_DorsalC_jnt/R_DorsalD_jnt/R_DorsalE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt/SpineK_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt/SpineK_jnt/SpineL_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt/HeadB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt/HeadB_jnt/HeadC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt/HeadB_jnt/HeadC_jnt/HeadD_jnt
+        weight: 1
+      - path: Shark
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: SpineC_Ctrl
+        weight: 1
+      - path: SpineC_Ctrl/SpineB_Ctrl
+        weight: 1
+      - path: SpineC_Ctrl/SpineB_Ctrl/SpineA_Ctrl
+        weight: 1
+      - path: SpineC_Ctrl/SpineD_Ctrl
+        weight: 1
+      - path: SpineIK
+        weight: 1
+      - path: SpineIK_CV
+        weight: 1
+      - path: Up_Head_Ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Attack
+      firstFrame: 63
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cluster1Handle
+        weight: 1
+      - path: cluster2Handle
+        weight: 1
+      - path: cluster3Handle
+        weight: 1
+      - path: cluster4Handle
+        weight: 1
+      - path: Dorsal_Ctrl
+        weight: 1
+      - path: Down_Head_Ctrl
+        weight: 1
+      - path: L_Dorsal_Ctrl
+        weight: 1
+      - path: R_Dorsal_Ctrl
+        weight: 1
+      - path: Root_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt/DorsalC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt/DorsalC_jnt/DorsalD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/DorsalA_jnt/DorsalB_jnt/DorsalC_jnt/DorsalD_jnt/DorsalE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Down_HeadA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Down_HeadA_jnt/Down_HeadB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Down_HeadA_jnt/Down_HeadB_jnt/Down_HeadC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt/L_DorsalC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt/L_DorsalC_jnt/L_DorsalD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/L_DorsalA_jnt/L_DorsalB_jnt/L_DorsalC_jnt/L_DorsalD_jnt/L_DorsalE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt/R_DorsalC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt/R_DorsalC_jnt/R_DorsalD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/R_DorsalA_jnt/R_DorsalB_jnt/R_DorsalC_jnt/R_DorsalD_jnt/R_DorsalE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt/SpineK_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/SpineC_jnt/SpineD_jnt/SpineE_jnt/SpineF_jnt/SpineG_jnt/SpineH_jnt/SpineI_jnt/SpineJ_jnt/SpineK_jnt/SpineL_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt/HeadB_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt/HeadB_jnt/HeadC_jnt
+        weight: 1
+      - path: Root_jnt/SpineA_jnt/SpineB_jnt/Up_HeadA_jnt/HeadB_jnt/HeadC_jnt/HeadD_jnt
+        weight: 1
+      - path: Shark
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: SpineC_Ctrl
+        weight: 1
+      - path: SpineC_Ctrl/SpineB_Ctrl
+        weight: 1
+      - path: SpineC_Ctrl/SpineB_Ctrl/SpineA_Ctrl
+        weight: 1
+      - path: SpineC_Ctrl/SpineD_Ctrl
+        weight: 1
+      - path: SpineIK
+        weight: 1
+      - path: SpineIK_CV
+        weight: 1
+      - path: Up_Head_Ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 63
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
